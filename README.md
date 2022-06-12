@@ -1,3 +1,8 @@
+# Intermediate machine learning by Kaggle
+This course covers the basics to intermediate understanding of machine learning in Python.
+
+[Course website](https://www.kaggle.com/learn/intermediate-machine-learning?rvi=1)
+
 # Intro to machine learning by Kaggle
 This course introduces the basics of machine learning in Python.
 
