@@ -1,14 +1,14 @@
-# Intermediate machine learning by Kaggle
+# II. Intermediate machine learning by Kaggle
 This course covers common knowledge of applying machine learning in Python.
 
 [Course website](https://www.kaggle.com/learn/intermediate-machine-learning?rvi=1)
 
 [Dataset used to demonstrate the techniques](https://www.kaggle.com/competitions/home-data-for-ml-course/data)
 
-## Certificate
+## II.a. Certificate
 ![Kaggle intermediate machine learning certificate](https://github.com/TomPham97/Kaggle-machine-learning/blob/main/Tom%20Pham%20-%20Intermediate%20Machine%20Learning.png)
 
-## Exercises completed over the course
+## II.b. Exercises completed over the course
 1. [Introduction/Review](https://github.com/TomPham97/Kaggle-machine-learning/blob/main/Intermediate%20machine%20learning%20exercises/exercise-introduction.ipynb)
 2. [Missing values](https://github.com/TomPham97/Kaggle-machine-learning/blob/main/Intermediate%20machine%20learning%20exercises/exercise-missing-values.ipynb)
 3. [Categorical variables](https://github.com/TomPham97/Kaggle-machine-learning/blob/main/Intermediate%20machine%20learning%20exercises/exercise-categorical-variables.ipynb)
@@ -18,15 +18,15 @@ This course covers common knowledge of applying machine learning in Python.
 7. [Data leakage](https://github.com/TomPham97/Kaggle-machine-learning/blob/main/Intermediate%20machine%20learning%20exercises/exercise-data-leakage.ipynb)
 
 
-# Intro to machine learning by Kaggle
+# I. Intro to machine learning by Kaggle
 This course introduces the basics to machine learning in Python.
 
 [Course website](https://www.kaggle.com/learn/intro-to-machine-learning)
 
-## Certificate
+## I.a. Certificate
 ![Kaggle intro to machine learning ceritifcate](https://github.com/TomPham97/Kaggle-machine-learning/blob/main/Tom%20Pham%20-%20Intro%20to%20Machine%20Learning.png?raw=true)
 
-## Contents
+## I.b. Exercises completed over the course
 1. [Explore your data](https://github.com/TomPham97/Kaggle-machine-learning/blob/main/Intro%20to%20machine%20learning%20exercises/Kaggle_Lesson2_exercise-explore-your-data.ipynb)
 2. [Explore your first machine learning model](https://github.com/TomPham97/Kaggle-machine-learning/blob/main/Intro%20to%20machine%20learning%20exercises/Kaggle_Lesson3_exercise-your-first-machine-learning-model.ipynb)
 3. [Model validation](https://github.com/TomPham97/Kaggle-machine-learning/blob/main/Intro%20to%20machine%20learning%20exercises/Kaggle_Lesson4_exercise-model-validation.ipynb)
