@@ -1,3 +1,22 @@
+# III. Time series by Kaggle
+This course provides detailed instructions on how to construct forecasting models using machine learning.
+
+[Course website](https://www.kaggle.com/learn/time-series)
+
+[Dataset used to demonstrate the technique](https://www.kaggle.com/competitions/store-sales-time-series-forecasting)
+
+## III.a. Certificate
+[![Kaggle time series certificate](https://github.com/TomPham97/Kaggle-machine-learning/blob/main/Tom%20Pham%20-%20Time%20Series.png?raw=true)](https://www.kaggle.com/learn/certification/tompham97/time-series)
+
+## III.b. Exercises completed over the course
+1. [Linear regression with time series](https://github.com/TomPham97/Kaggle-machine-learning/blob/main/Time%20series%20exercises/exercise-linear-regression-with-time-series.ipynb)
+2. [Trend](https://github.com/TomPham97/Kaggle-machine-learning/blob/main/Time%20series%20exercises/exercise-trend.ipynb)
+3. [Seasonality](https://github.com/TomPham97/Kaggle-machine-learning/blob/main/Time%20series%20exercises/exercise-seasonality.ipynb)
+4. [Time series as features](https://github.com/TomPham97/Kaggle-machine-learning/blob/main/Time%20series%20exercises/exercise-time-series-as-features.ipynb)
+5. [Hybrid models](https://github.com/TomPham97/Kaggle-machine-learning/blob/main/Time%20series%20exercises/exercise-hybrid-models.ipynb)
+6. [Forecasting with machine learning](https://github.com/TomPham97/Kaggle-machine-learning/blob/main/Time%20series%20exercises/exercise-forecasting-with-machine-learning.ipynb)
+
+
 # II. Intermediate machine learning by Kaggle
 This course covers common knowledge of applying machine learning in Python.
 
