@@ -6,7 +6,7 @@ This course covers common knowledge of applying machine learning in Python.
 [Dataset used to demonstrate the techniques](https://www.kaggle.com/competitions/home-data-for-ml-course/data)
 
 ## II.a. Certificate
-![Kaggle intermediate machine learning certificate](https://github.com/TomPham97/Kaggle-machine-learning/blob/main/Tom%20Pham%20-%20Intermediate%20Machine%20Learning.png)
+[![Kaggle intermediate machine learning certificate](https://github.com/TomPham97/Kaggle-machine-learning/blob/main/Tom%20Pham%20-%20Intermediate%20Machine%20Learning.png)](https://www.kaggle.com/learn/certification/tompham97/intermediate-machine-learning)
 
 ## II.b. Exercises completed over the course
 1. [Introduction/Review](https://github.com/TomPham97/Kaggle-machine-learning/blob/main/Intermediate%20machine%20learning%20exercises/exercise-introduction.ipynb)
@@ -24,7 +24,7 @@ This course introduces the basics to machine learning in Python.
 [Course website](https://www.kaggle.com/learn/intro-to-machine-learning)
 
 ## I.a. Certificate
-![Kaggle intro to machine learning ceritifcate](https://github.com/TomPham97/Kaggle-machine-learning/blob/main/Tom%20Pham%20-%20Intro%20to%20Machine%20Learning.png?raw=true)
+[![Kaggle intro to machine learning ceritifcate](https://github.com/TomPham97/Kaggle-machine-learning/blob/main/Tom%20Pham%20-%20Intro%20to%20Machine%20Learning.png?raw=true)](https://www.kaggle.com/learn/certification/tompham97/intro-to-machine-learning)
 
 ## I.b. Exercises completed over the course
 1. [Explore your data](https://github.com/TomPham97/Kaggle-machine-learning/blob/main/Intro%20to%20machine%20learning%20exercises/Kaggle_Lesson2_exercise-explore-your-data.ipynb)
