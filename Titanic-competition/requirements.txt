@@ -1,0 +1,6 @@
+fastkaggle
+fastai
+pandas_profiling
+auto-sklearn
+pipelineprofiler
+ipywidgets
