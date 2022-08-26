@@ -1,3 +1,6 @@
+wheel
+jupyter
+ipywidgets
 fastkaggle
 fastai
 pandas_profiling
