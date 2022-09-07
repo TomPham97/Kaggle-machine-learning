@@ -2,6 +2,6 @@ jupyter
 ipywidgets
 fastkaggle
 fastai
-pandas_profiling
+pandas_profiling[notebook]
 auto-sklearn
 pipelineprofiler
