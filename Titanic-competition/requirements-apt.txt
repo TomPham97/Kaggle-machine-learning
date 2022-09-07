@@ -2,5 +2,5 @@ jupyter
 ipywidgets
 fastkaggle
 fastai
-pandas_profiling
+pandas_profiling[notebook]
 autoPyTorch
