@@ -5,3 +5,4 @@ fastai
 pandas_profiling[notebook]
 auto-sklearn
 pipelineprofiler
+shap
